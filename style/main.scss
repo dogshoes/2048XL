@@ -2,8 +2,8 @@
 @import "fonts/clear-sans.css";
 
 $field-width: 500px;
-$grid-spacing: 5px;
-$grid-row-cells: 8;
+$grid-spacing: 8px;
+$grid-row-cells: 6;
 $tile-size: ($field-width - $grid-spacing * ($grid-row-cells + 1)) / $grid-row-cells;
 $tile-border-radius: 3px;
 
